@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vygintas</h1>
-<h3 align="center">A passionate ethical hacking from Lithuania</h3>
+<h3 align="center">A passionate ethical hacker from Lithuania</h3>
 
 - 🔭 I’m currently working on [Linux War game](https://github.com/C1nC1n/OverTheWire-Bandit)
 
-- 🌱 I’m currently learning **Network+ and Linux**
+- 🌱 I’m currently learning **Network and Linux**
 
 - 🤝 I’m looking for help with **Vulnhub**
 
-- 👨‍💻 I'm currently watching [https://www.udemy.com/course/comptia-networkplus-certification/?couponCode=THANKSLEARNER24](https://www.udemy.com/course/comptia-networkplus-certification/?couponCode=THANKSLEARNER24)
-
-- 📝 I'm currently reading [Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali](Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali)
-
 - 📫 How to reach me **matuseviciusv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Courses that i tooked:</h3>
 <p align="left">
+  https://www.udemy.com/course/comptia-networkplus-certification/?couponCode=LETSLEARNNOW
+  
+  Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
