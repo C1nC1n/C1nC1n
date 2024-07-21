@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **matuseviciusv@gmail.com**
 
-<h3 align="left">Courses that i tooked:</h3>
+<h3 align="left">Here are the courses that I took.</h3>
 <p align="left">
   https://www.udemy.com/course/comptia-networkplus-certification/?couponCode=LETSLEARNNOW
   
